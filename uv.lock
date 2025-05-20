@@ -791,6 +791,7 @@ dependencies = [
     { name = "langchain-groq" },
     { name = "langgraph" },
     { name = "langsmith" },
+    { name = "python-dotenv" },
     { name = "wikipedia" },
 ]
 
@@ -803,6 +804,7 @@ requires-dist = [
     { name = "langchain-groq", specifier = ">=0.3.2" },
     { name = "langgraph", specifier = ">=0.4.5" },
     { name = "langsmith", specifier = ">=0.3.42" },
+    { name = "python-dotenv", specifier = ">=1.1.0" },
     { name = "wikipedia", specifier = ">=1.4.0" },
 ]
 
